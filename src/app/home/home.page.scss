@@ -1,4 +1,8 @@
+*{
+  background-color: #C7BAB1;
+}
 ion-content{
+  background-color: #403631;
   text-align: center;
   --padding-top: 24px;
   --padding-start: 24px;
@@ -7,4 +11,16 @@ ion-content{
 
 ion-item{
   margin: 16px 0;
+  background-color: #C7BAB1;
+}
+ion-label{
+  color: #5A5955;
+}
+
+h3{
+color: #5A5955;
+}
+h1{
+  color: red;
+  font-family: Stencil Std, fantasy;
 }
